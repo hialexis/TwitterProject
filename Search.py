@@ -9,3 +9,4 @@ with open("twitter_credentials.json", "r") as file:
 
 twitter = Twython(creds['CONSUMER_KEY'], creds['CONSUMER_SECRET'])
 
+git
